@@ -19,4 +19,4 @@ jobs:
           python-version: '3.12'
 
       - name: Run Application
-        run: python app2.py
+        run: python app.py
